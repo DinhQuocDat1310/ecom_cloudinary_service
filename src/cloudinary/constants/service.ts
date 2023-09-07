@@ -1,1 +1,3 @@
 export const CLOUDINARY_PROVIDER = 'Cloudinary';
+export const CHUNKED_SIZE_6MB_UPLOAD_VIDEO = 6000000; //6MB
+export const CHUNKED_SIZE_MAX_UPLOAD_VIDEO = 104857600;
